@@ -1,0 +1,14 @@
+Criar uma API REST com Express
+A api vai tratar as requisições e enviar as respostas aos endpoints
+teste de api pelo postman
+
+Criar usuário
+Listar usuários
+Atualizar usuário
+Deletar usuário
+
+
+Popula req.body: Sem essa linha, a propriedade req.body será undefined ao tentar acessar dados enviados por uma requisição POST, PUT ou PATCH.
+
+status dogs para a consulta de http code: https://http.dog/ 
+ 
